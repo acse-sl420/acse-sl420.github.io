@@ -31,4 +31,4 @@ I am a final-year PhD candidate at [Imperial College London](https://www.imperia
 
 I hold an MSc in Computational Science and Engineering from Imperial College London and MEng/BEng degrees in Mining and Industrial Engineering from [McGill University](https://www.mcgill.ca/).
 
-During my PhD, I worked at [Autodesk Research](https://www.research.autodesk.com/) on geometric generation and at [Woven by Toyota](https://woven.toyota/en/) on AI agents, and I was a lead researcher in a [Shell](https://www.shell.com/)/Imperial collaboration on EV smart charging.
+During my PhD, I worked at [Autodesk AI Lab](https://www.research.autodesk.com/research-areas/science/ai-lab/) on geometric generation and at [Woven by Toyota](https://woven.toyota/en/) on agentic AI. I was also a lead researcher in a [Shell](https://www.shell.com/)/Imperial collaboration on EV smart charging.
