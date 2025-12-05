@@ -16,16 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+        },{id: "news-ai-driven-ev-charging-prediction-research-published-in-nature-communications-this-research-was-completed-in-collaboration-with-shell-research-limited",
+          title: 'AI-driven EV charging prediction research published in Nature Communications. This research was completed...',
           description: "",
           section: "News",},{
       id: 'light-theme',
